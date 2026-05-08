@@ -15,6 +15,11 @@
   "author": "syyedrehanhanfi",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.1.14"
+    "nodemon": "^3.1.14",
+    "prettier": "^3.8.3"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.6.1"
   }
 }
