@@ -1,6 +1,6 @@
 import connectDB from './db/index.js';
 import dotenv from 'dotenv'
-
+import { app } from './app.js';
 
 dotenv.config({
   path: './.env'
@@ -27,7 +27,13 @@ connectDB()
 
 
 
+//prodected routes
 
+import userRoutes from "./routes/user.routes.js"
+
+app.use("/api/v1/user", userRoutes)
+
+//https://localhost:8000/api/v1/user/register
 
 
 
