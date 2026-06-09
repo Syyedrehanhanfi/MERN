@@ -12,13 +12,7 @@ PlayTube is a premium, feature-rich full-stack video hosting and sharing platfor
 
 ## 🚀 Live Demo & Preview
 
-* **Live Link**: *[Insert Live Demo Link Here]*
-* **Backend API Documentation**: *[Insert Postman/API Link Here]*
-
-### App Preview
-> *[Insert a stunning GIF or screenshot showcase of PlayTube's home screen, video player, and creator dashboard here]*
-
----
+* **Live Link**: comming soon..
 
 ## ✨ Features
 
